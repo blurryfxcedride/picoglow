@@ -1,0 +1,6 @@
+effect,colors,duration,speed,brightness
+
+rainbow,,5,5,0.5
+solid,"255,0,0",3,1,1.0
+lightning,"255,0,0",10,2,1.0
+pulse,"255,0,0",8,3,0.8
