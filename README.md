@@ -1,5 +1,4 @@
 # PicoGlow - A Simple NeoPixel Light Show Controller
-### Created by bxndito
 
 This project allows you to create custom light shows for a NeoPixel LED strip using a Raspberry Pi Pico and CircuitPython.
 
