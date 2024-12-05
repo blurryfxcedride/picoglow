@@ -13,7 +13,8 @@ If you find any bugs or have any suggestions... please make an issue!
      - `neopixel.mpy`
      - `adafruit_pixelbuf.mpy`
 3. Copy all the project files to your CIRCUITPY drive
-4. Connect your NeoPixel strip to:
+4. Edit line 7 in `code.py` and change the number of leds to however many leds your NeoPixel strip has
+5. Connect your NeoPixel strip to:
    - Data: GPIO Pin 16
    - Power: VBUS (5V)
    - Ground: GND
